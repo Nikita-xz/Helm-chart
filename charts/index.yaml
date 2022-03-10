@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  springboot:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2022-03-10T16:07:35.965753678+05:30"
+    description: A Helm chart to deploy application
+    digest: d400c64d770052b12c8d9af5db87748ed7fb7190140626174d2c2819d653bac7
+    name: springboot
+    type: application
+    urls:
+    - springboot-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-03-10T16:07:35.965017909+05:30"
